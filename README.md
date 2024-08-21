@@ -36,4 +36,4 @@ python src/eval_triviaqa_em_online.py
 
 ## Note
 1. Be careful of the version of `transformers` and `pytest`, and please follow the requirements listed in requirements.txt. 
-2. Due to networking issues, some of the model in the code is loaded locally. Please adjust it into your way for loading.
+2. Due to networking issues, some of the models/metric in the code are loaded locally. Please adjust it into your way for loading.
